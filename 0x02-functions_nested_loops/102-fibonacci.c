@@ -1,7 +1,3 @@
-102-fibonacci.c CODE
-
-
-
 #include <stdio.h>
 
 
